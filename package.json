@@ -1,0 +1,27 @@
+{
+  "name": "mixedmessaging",
+  "version": "1.0.0",
+  "description": "This project is based on the Mixed Messaging project prompt on Codecademy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeFriends1/mixedmessaging.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeFriends1/mixedmessaging/issues"
+  },
+  "homepage": "https://github.com/CodeFriends1/mixedmessaging#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "fs-node": "^1.0.1"
+  },
+  "type": "module"
+}
